@@ -6,7 +6,7 @@ const Navbar = () => (
     <div className="px-6 py-3 flex items-center justify-between">
       <div className="flex items-center space-x-8">
         <h1 className="text-2xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent">
-          Nextus
+          C&C Sons.
         </h1>
         <nav className="hidden md:flex space-x-6">
           {['Dashboard', 'Analytics', 'Projects', 'Team', 'Settings'].map((item) => (
